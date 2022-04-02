@@ -1,0 +1,74 @@
+@font-face {
+    font-family: 'CooperHewitt';
+    src: url('CooperHewitt-Thin.eot');
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'CooperHewitt';
+    src: url('CooperHewitt-Thin.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'CooperHewitt';
+    src: url('CooperHewitt-ThinItalic.eot');
+    font-weight: 200;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'CooperHewitt';
+    src: url('CooperHewitt-ThinItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'CooperHewitt';
+    src: url('CooperHewitt-Light.eot');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'CooperHewitt';
+    src: url('CooperHewitt-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'CooperHewitt';
+    src: url('CooperHewitt-LightItalic.eot');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'CooperHewitt';
+    src: url('CooperHewitt-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'CooperHewitt';
+    src: url('CooperHewitt-Heavy.eot');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'CooperHewitt';
+    src: url('CooperHewitt-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'CooperHewitt';
+    src: url('CooperHewitt-HeavyItalic.eot');
+    font-weight: 900;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'CooperHewitt';
+    src: url('CooperHewitt-HeavyItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
