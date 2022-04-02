@@ -1,25 +1,25 @@
 @font-face {
     font-family: 'CooperHewitt';
-    src: url('CooperHewitt-Thin.eot');
-    font-weight: 200;
+    src: url('CooperHewitt-Medium.eot');
+    font-weight: 500;
     font-style: normal;
 }
 @font-face {
     font-family: 'CooperHewitt';
-    src: url('CooperHewitt-Thin.woff') format('woff');
-    font-weight: 200;
+    src: url('CooperHewitt-Medium.woff') format('woff');
+    font-weight: 500;
     font-style: normal;
 }
 @font-face {
     font-family: 'CooperHewitt';
-    src: url('CooperHewitt-ThinItalic.eot');
-    font-weight: 200;
+    src: url('CooperHewitt-MediumItalic.eot');
+    font-weight: 500;
     font-style: italic;
 }
 @font-face {
     font-family: 'CooperHewitt';
-    src: url('CooperHewitt-ThinItalic.woff') format('woff');
-    font-weight: 200;
+    src: url('CooperHewitt-MediumItalic.woff') format('woff');
+    font-weight: 500;
     font-style: italic;
 }
 
