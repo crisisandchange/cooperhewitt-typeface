@@ -72,3 +72,28 @@
     font-weight: 900;
     font-style: italic;
 }
+
+@font-face {
+    font-family: 'CooperHewitt';
+    src: url('CooperHewitt-Bold.eot');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'CooperHewitt';
+    src: url('CooperHewitt-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'CooperHewitt';
+    src: url('CooperHewitt-BoldItalic.eot');
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'CooperHewitt';
+    src: url('CooperHewitt-BoldItalic.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+}
